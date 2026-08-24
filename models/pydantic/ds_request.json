@@ -1,0 +1,38 @@
+{
+  "productInfo": {
+    "id": 10001,
+    "orgCode": "10001",
+    "policyType": "个险1团险2",
+    "groupPolicyNo": "团单号码(仅团单有此字段)",
+    "planList": [
+      {
+        "id": 20001,
+        "planCode": "PLAN_ZX_2024_A",
+        "planVersion": "v1.0",
+        "clauseCode": "CLAUSE_MED_01",
+        "clauseName": "尊享医疗险条款2024版",
+        "liabilityList": [
+          {
+            "id": 30001,
+            "liabCode": "LIAB_OP_01",
+            "liabName": "一般门急诊医疗保险金"
+          }
+        ]
+      }
+    ],
+    "fileList": [
+      {
+        "id": 40001,
+        "fileClass": "01-协议, 02-特别约定, 03-条款, 04-其他",
+        "fileFormat": "pdf",
+        "fileUrl": "https://example.com/files/demo-policy.pdf",
+        "fileExternalUrl": "https://example.com/files/demo-policy.pdf",
+        "fileName": "clause_med_01.pdf"
+      }
+    ]
+  },
+  "transDate": "2023-10-27T14:30:00",
+  "transNo": "REQ_550e8400-e29b-41d4-a716-446655440000",
+  "systemCode": "SYS_CORE_CLAIM",
+  "policyNo": "保险单号(后处理得到)"
+}

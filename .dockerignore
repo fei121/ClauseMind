@@ -1,0 +1,32 @@
+.git
+.codegraph
+.venv
+venv
+env
+ENV
+
+# Local configuration and runtime data
+.env
+.env.local
+.env.*.local
+local_cache
+evaluation
+logs
+*.log
+
+# Python and editor artifacts
+__pycache__
+*.py[cod]
+*.egg-info
+.pytest_cache
+.coverage
+htmlcov
+.vscode
+.idea
+.DS_Store
+
+# Local-only project artifacts
+examples/demo_result.json
+local_demo_policy_catalog.md
+local_demo_policy_chunks.json
+local_demo_policy_parsed.md

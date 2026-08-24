@@ -1,0 +1,50 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.coverage
+htmlcov/
+.pytest_cache/
+
+# Environments and local configuration
+venv/
+env/
+ENV/
+.venv/
+.env
+.env.local
+.env.*.local
+
+# Editors and operating-system files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+
+# Build, package, and runtime output
+*.egg-info/
+*.egg
+dist/
+build/
+node_modules/
+*.log
+logs/
+*.tmp
+.tmp/
+tmp/
+
+# Local demo and generated artifacts
+examples/demo_result.json
+local_cache/
+evaluation/
+output_test/
+test_output/
+layout.json
+
+# Local documentation and tooling output
+docs/_build/
+ARCHIVE/
+archive/

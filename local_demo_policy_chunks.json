@@ -1,0 +1,104 @@
+[
+  {
+    "index": 0,
+    "page_content": "# FILE: demo_policy.md | 条款文档  \n本节无正文内容",
+    "metadata": {
+      "#": "FILE: demo_policy.md | 条款文档",
+      "structure_path": "FILE: demo_policy.md | 条款文档",
+      "structure_level": 1,
+      "original_index": 0,
+      "file_name": "demo_policy.md",
+      "file_class": "条款文档"
+    }
+  },
+  {
+    "index": 1,
+    "page_content": "# 本地体验医疗保险条款  \n仅用于本地端到端演示，不构成真实保险合同。",
+    "metadata": {
+      "#": "本地体验医疗保险条款",
+      "structure_path": "本地体验医疗保险条款",
+      "structure_level": 1,
+      "original_index": 1,
+      "file_name": "demo_policy.md",
+      "file_class": "条款文档"
+    }
+  },
+  {
+    "index": 2,
+    "page_content": "## 第一条 保险责任  \n在保险期间内，被保险人因意外伤害或在等待期后因疾病，经二级及以上公立医院诊断必须住院治疗的，保险人对其实际发生的、合理且必要的住院医疗费用，在扣除社会医疗保险及其他途径补偿后，按百分之九十的比例给付住院医疗保险金。",
+    "metadata": {
+      "#": "本地体验医疗保险条款",
+      "##": "第一条 保险责任",
+      "structure_path": "本地体验医疗保险条款/第一条 保险责任",
+      "structure_level": 2,
+      "original_index": 2,
+      "file_name": "demo_policy.md",
+      "file_class": "条款文档"
+    }
+  },
+  {
+    "index": 3,
+    "page_content": "## 第二条 等待期  \n本合同疾病住院医疗责任的等待期为三十日。因意外伤害导致的住院治疗不受等待期限制。续保时不重新计算等待期。",
+    "metadata": {
+      "#": "本地体验医疗保险条款",
+      "##": "第二条 等待期",
+      "structure_path": "本地体验医疗保险条款/第二条 等待期",
+      "structure_level": 2,
+      "original_index": 3,
+      "file_name": "demo_policy.md",
+      "file_class": "条款文档"
+    }
+  },
+  {
+    "index": 4,
+    "page_content": "## 第三条 赔付范围及参数  \n项目 约定事故类型 疾病或意外伤害治疗类型 住院治疗医院范围 二级及以上公立医院普通部费用范围 合理且必要的住院医疗费用免赔额 每次住院人民币一千元赔付比例 经社会医疗保险结算后百分之九十；未经结算百分之六十",
+    "metadata": {
+      "#": "本地体验医疗保险条款",
+      "##": "第三条 赔付范围及参数",
+      "structure_path": "本地体验医疗保险条款/第三条 赔付范围及参数",
+      "structure_level": 2,
+      "original_index": 4,
+      "file_name": "demo_policy.md",
+      "file_class": "条款文档"
+    }
+  },
+  {
+    "index": 5,
+    "page_content": "## 第四条 责任免除  \n因下列情形之一导致的医疗费用，保险人不承担给付责任：被保险人故意自伤或违法犯罪；美容、整形及非治疗性牙科；先天性疾病、遗传性疾病；在非本合同约定医院发生的医疗费用。",
+    "metadata": {
+      "#": "本地体验医疗保险条款",
+      "##": "第四条 责任免除",
+      "structure_path": "本地体验医疗保险条款/第四条 责任免除",
+      "structure_level": 2,
+      "original_index": 5,
+      "file_name": "demo_policy.md",
+      "file_class": "条款文档"
+    }
+  },
+  {
+    "index": 6,
+    "page_content": "## 第五条 既往症  \n保险人不承担被保险人在本合同生效前已经罹患并已接受诊断或治疗的既往症所产生的医疗费用，但投保时已如实告知并经保险人书面同意承保的除外。",
+    "metadata": {
+      "#": "本地体验医疗保险条款",
+      "##": "第五条 既往症",
+      "structure_path": "本地体验医疗保险条款/第五条 既往症",
+      "structure_level": 2,
+      "original_index": 6,
+      "file_name": "demo_policy.md",
+      "file_class": "条款文档"
+    }
+  },
+  {
+    "index": 7,
+    "page_content": "## 特别约定  \n若同一次住院同时符合多项给付条件，各项保险金累计给付金额不超过被保险人实际支出的医疗费用。本合同年度累计给付限额为人民币二十万元。",
+    "metadata": {
+      "#": "本地体验医疗保险条款",
+      "##": "特别约定",
+      "structure_path": "本地体验医疗保险条款/特别约定",
+      "structure_level": 2,
+      "original_index": 7,
+      "file_name": "demo_policy.md",
+      "file_class": "条款文档"
+    }
+  }
+]
